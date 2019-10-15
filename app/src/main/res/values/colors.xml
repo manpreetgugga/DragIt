@@ -1,0 +1,11 @@
+<resources>
+    <color name="Red">#ff5dff68</color>
+    <color name="Blue">#fff9ff83</color>
+    <color name="Green">#ffff5a51</color>
+    <color name="Yellow">#ff7e9aff</color>
+
+    <color name="realRed">#ffff5a51</color>
+    <color name="realBlue">#ff7e9aff</color>
+    <color name="realGreen">#ff5dff68</color>
+    <color name="realYellow">#fff9ff83</color>
+</resources>
