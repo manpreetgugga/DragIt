@@ -19,7 +19,7 @@
             android:layout_gravity="center_horizontal"
             android:src="@drawable/josj" />
 
-        <android.support.design.widget.TextInputLayout
+        <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/username_text_input_layout"
             style="@style/AppTheme"
             android:layout_width="match_parent"
@@ -35,9 +35,9 @@
                 android:ems="10"
                 android:hint="Username" />
 
-        </android.support.design.widget.TextInputLayout>
+        </com.google.android.material.textfield.TextInputLayout>
 
-        <android.support.design.widget.TextInputLayout
+        <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/phone_text_input_layout"
             style="@style/AppTheme"
             android:layout_width="match_parent"
@@ -56,7 +56,7 @@
                 android:hint="phone"
                 android:inputType="number" />
 
-        </android.support.design.widget.TextInputLayout>
+        </com.google.android.material.textfield.TextInputLayout>
 
         <Button
             android:id="@+id/start"
